@@ -5,4 +5,5 @@
 - 📫 Cómo contactarme: [jhddhxdf@gmail.com]
 - 😄 Pronombres: [plexy, nexu, plexy-draw]
 - ⚡ Dato curioso: ¡Me apasiona explorar nuevas vulnerabilidades y mejorar la seguridad web!
+- 🌍 Mi mundo mis reglas 👹  👌 👈 👎 🖖
 
