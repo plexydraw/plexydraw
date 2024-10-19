@@ -1,7 +1,7 @@
 - 👋 Hola, soy @plexydraw
 - 👀 Estoy interesado en ciberseguridad, Python orientado a la seguridad y el desarrollo web.
 - 🌱 Actualmente estoy aprendiendo ciberseguridad, con un enfoque en Python y soy Desarrollador de python junior.
-- 💞️ Estoy buscando colaborar en proyectos de ciberseguridad, desarrollo web con HTML5, CSS3/4 y JavaScript y Creaciones de app con python 3.
+- 💞️ Estoy buscando colaborar en proyectos de ciberseguridad, desarrollo web con HTML5, CSS3 y JavaScript y Creaciones de app con python 3.
 - 📫 Cómo contactarme: [jhddhxdf@gmail.com]
 - ⚡ Dato curioso: ¡Me apasiona explorar nuevas vulnerabilidades y mejorar la seguridad web!
 - 🌍 Mi mundo mis reglas 👹  👌 👈 👎 🖖 [https://youtu.be/sthRlYvFsU4?si=vEgSG3nKl5JAZu8E]
